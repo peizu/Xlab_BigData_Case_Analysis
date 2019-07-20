@@ -57,7 +57,7 @@
       ]
     },
     {
-      "title": "电d信行业客户流失分析",
+      "title": "电信行业客户流失分析",
       "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:cloudware-rstudio-latest",
       "binds": ["/kfcampus/public:/root/Desktop/myFile","/userfile:/data:ro"],
       "steps": [
